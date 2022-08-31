@@ -1,0 +1,51 @@
+Students Details:
+
+StudentID : 1
+Name : Salini S
+DOB : 02-Oct-2001
+Grade : A+
+
+StudentID : 2
+Name : Dhashwanth P
+DOB : 16-Sep-2021
+Grade : A
+
+StudentID : 3
+Name : Sameer Ahemd
+DOB : 19-Nov-2000
+Grade : A+
+
+StudentID : 4
+Name : Rubini S
+DOB : 19-Apr-2000
+Grade : A
+
+StudentID : 5
+Name : Lavanya 
+DOB : 31-Aug-1999
+Grade : O
+
+StudentID: 6
+Name : Shifa
+DOB : 10-Jul-1998
+Grade : A+
+
+StudentID : 7
+Name : Anusha M
+DOB : 05-Jan-2001
+Grade : O
+
+StudentID : 8
+Name : Shivaani V S
+DOB : 07-Feb-2000
+Grade : O
+
+StudentID : 9
+Name : Eswari S
+DOB : 14-May-2001
+Grade : A
+
+StudentID : 10
+Name : Shristika Shree S
+DOB : 05-Dec-2021
+Grade : A+
