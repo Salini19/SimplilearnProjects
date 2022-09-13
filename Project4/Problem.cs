@@ -62,7 +62,7 @@ namespace PractiseAssignmnets
                 Console.WriteLine("Class And Section : " + s.ClassAndSection);           
                 Console.WriteLine();
             }
-            // Console.WriteLine(s.DisplayInfo());
+            
             Console.WriteLine();
             Console.ForegroundColor = ConsoleColor.DarkCyan;
             Console.WriteLine("Subjects Taught By Teacher");
@@ -77,7 +77,7 @@ namespace PractiseAssignmnets
                 Console.WriteLine();
 
             }
-                //Console.WriteLine(s.DisplayInfo());
+              
 
             Console.ReadLine();
         }
