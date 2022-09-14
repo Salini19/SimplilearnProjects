@@ -27,7 +27,7 @@ namespace PractiseAssignmnets
             {
 
                 Student stud = new Student();
-                string[] splitdata = student.Split(' ');
+                string[] splitdata = student.Split(',');
                 stud.StudentID = Convert.ToInt32(splitdata[0]);
                 stud.StudentName = splitdata[1];
                 stud.Age= Convert.ToInt32(splitdata[2]);

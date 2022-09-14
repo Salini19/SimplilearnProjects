@@ -1,10 +1,10 @@
-1 Salini 21 A  
-2 Sameer 19 O 
-3 Dhaswanth 20 A 
-4 Rubini 19 A 
-5 Lavanya 21 A 
-6 Shivaani 20 O
-7 Kalpana 21 A 
-8 Shifa 18 A 
-9 Aysha 19 B 
-10 Eswari 18 A
+1,Salini,21,A  
+2,Sameer,19,O 
+3,Dhaswanth,20,A 
+4,Rubini,19,A 
+5,Lavanya,2, A 
+6,Shivaani,2,O
+7,Kalpana,2,A 
+8,Shifa,18,A 
+9,Aysha,19,B 
+10,Eswari,18,A
